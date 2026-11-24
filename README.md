@@ -6,6 +6,7 @@ Global references for the quest. Issues in `workbench` link here. This repo grow
 - [Definition of Done](definition-of-done.md)
 - [How to Ask for Help](how-to-ask-for-help.md)
 - [Git Cheatsheet](git-cheatsheet.md)
+- [Python and venv Cheatsheet](python-cheatsheet.md)
 - [Rewards: XP, Levels, Loot](rewards/rewards.md)
 - [Glossary](glossary.md)
 
